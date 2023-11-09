@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="HelloTestNgSuite">
+    <test name="HelloWorldTest" preserve-order="true" thread-count="10" parallel="methods">
+        <classes>
+            <class name="tests.SearchTest"/>
+            
+        </classes>
+    </test>
+</suite>
